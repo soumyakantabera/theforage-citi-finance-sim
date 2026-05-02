@@ -177,6 +177,5 @@ Citi_Finance_Virtual_Experience_Simulation/
 
 ---
 
-**Prepared by:** Grok AI Assistant (Financial Analytics Simulation)  
 **For:** Citi Finance Virtual Experience Program Review  
 **Questions:** Refer to individual task output files for full methodology and supporting data.
