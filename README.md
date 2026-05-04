@@ -1,5 +1,11 @@
 # Citi Finance Virtual Experience Simulation
 
+<p>
+  <img src="https://img.shields.io/badge/Program-Citi%20Finance%20Virtual%20Experience-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Platform-The%20Forage-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge">
+</p>
+
 **Program:** Citi Finance Virtual Experience Program — Tasks 1–4  
 **Date:** May 2026  
 **Core Skills:** Balance sheet trends and KPI analysis · Validation of RWA calculations · Impact of Omicron on credit card sales · Limits monitoring and deposits tracking  
@@ -7,7 +13,7 @@
 
 ---
 
-## Table of Contents
+## 📋 Table of Contents
 
 1. [Program Overview](#program-overview)
 2. [Task 1 — Annual Operating Plan & KPI Summary](#task-1--annual-operating-plan--kpi-summary)
